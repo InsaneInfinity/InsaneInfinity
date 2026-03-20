@@ -30,7 +30,7 @@ I am a **Multi-stack Developer** specializing in **C# / .NET** and **Python**. I
 ---
 
 ### 📫 Connect with me
-* **LinkedIn:** [YOUR_LINKEDIN_HERE]
+* **LinkedIn:** [(https://github.com/InsaneInfinity)]
 
 ---
 *"If it's not fast, it's not finished. If it's not automated, it's a waste of time."*
