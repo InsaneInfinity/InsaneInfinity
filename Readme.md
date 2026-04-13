@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Patryk — InsaneInfinity
 
-I'm a **C# / .NET & Python developer** focused on high-performance backends, application security and infrastructure tooling. I build things that push limits — WAFs, load testers, reverse proxies — and I believe that standard protection is never enough.
+I'm a **C# / .NET & Python developer** focused on high-performance backends, application security and simulation systems. I build things that push limits — WAFs, load testers, ballistic simulators — and I believe that standard solutions are never enough.
 
 ---
 
@@ -13,14 +13,27 @@ I'm a **C# / .NET & Python developer** focused on high-performance backends, app
 `WAF` `Redis Pub/Sub` `SignalR` `GeoIP (MaxMind)` `Browser Fingerprinting` `SHA-256`
 
 **Python**
-`FastAPI` `ASGI Middleware` `Redis asyncio` `Regex DPI` `Uvicorn`
+`Flask` `FastAPI` `ASGI Middleware` `Redis asyncio` `NumPy` `Regex DPI`
+
+**Simulation & Science**
+`Euler Integration` `ISA Atmosphere` `NASA SRTM` `Coriolis Effect` `Glasstone & Dolan`
 
 **Tooling & Infrastructure**
-`Docker` `Git` `Flipper Zero` `SQL`
+`Docker` `Git` `Redis Streams` `Leaflet.js` `CesiumJS`
 
 ---
 
 ### 🚀 Projects
+
+#### ⬡ [BALISTIC v6.0](https://github.com/InsaneInfinity/Balistic) — Ballistic Fire Control Simulator
+
+`Python/Flask` `C# .NET 10` `Redis Streams` `NASA SRTM` `Leaflet.js` `CesiumJS`
+
+Advanced ballistic simulator with **NASA SRTM terrain masking** — blast zones physically blocked by real mountains using a 72-ray horizon scan algorithm. Global elevation coverage (5700+ tiles), 195 weapon systems from 30+ countries, hybrid ballistic model (Euler+ISA for SRBM, analytic for ICBM), nuclear blast physics (Glasstone & Dolan 1977), radioactive fallout, Coriolis effect, CesiumJS 3D globe.
+
+| | |
+|---|---|
+| 🏔️ Islamabad — Margalla Hills block NW blast wave | 🏜️ Las Vegas — Red Rock Canyon clips zones west |
 
 #### 🛡️ Shield-X Ecosystem — Layer 7 WAF
 
@@ -48,6 +61,7 @@ A family of WAF tools built from scratch — each one runs standalone or as part
 ### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Patryk%20Grzes-0077B5?logo=linkedin)](https://www.linkedin.com/in/patryk-grzes-113b063b8/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-insaneinfinity-0A0A0A?logo=devdotto)](https://dev.to/insaneinfinity)
 
 ---
 
